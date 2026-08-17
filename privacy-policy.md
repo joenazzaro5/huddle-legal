@@ -66,4 +66,4 @@ We'll update this policy as Huddle grows, and notify users of any major changes 
 ## Contact Us
 
 **Email:** joe@huddleyouthsports.com
-**Website:** huddleyouthsports.com
+**About Huddle:** https://joenazzaro5.github.io/huddle-legal/about
