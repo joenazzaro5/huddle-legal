@@ -1,59 +1,69 @@
-Huddle Privacy Policy
-Effective Date: July 21, 2026
-Overview
-Huddle is a coaching tool that helps youth soccer coaches create personalized practice plans, manage games, and evaluate players. This privacy policy explains what data we collect and how we use it.
-What Data We Collect
-When you use Huddle, we collect:
+# Huddle Privacy Policy
 
-Account Information: Your name, email, phone number, and team affiliation
-Team Data: Player names, ages, skill levels, and roster information
-Game & Practice Data: Schedule, game results, substitutions, playing time, and player evaluations
-Usage Data: Which features you use and when (to improve the app)
+**Effective Date:** July 21, 2026
+**Last Updated:** August 17, 2026
 
-We do not collect:
+## Overview
 
-Social Security numbers or government IDs
-Payment information (we don't charge yet)
-Sensitive player health or medical information
-Information about players under your direct coaching consent
-How We Use Your Data
+Huddle is a coaching tool that helps youth soccer coaches create personalized practice plans, manage games, and evaluate players. This policy explains what data we collect, how we use it, and what rights you and your family have.
+
+## What Data We Collect
+
+**Account information:** Your name, email, phone number, and team affiliation.
+
+**Team & roster data:** Player names, and — only if a coach chooses to add them — jersey number and position. Huddle imports this from your league's existing roster system rather than collecting it independently.
+
+**Game & practice data:** Schedule, game results, substitutions, playing time, and coach-entered player evaluations.
+
+**Usage data:** Which features you use and when, so we can improve the app.
+
+### What we do NOT collect
+
+- Social Security numbers or government IDs
+- Payment information (Huddle doesn't charge for use yet)
+- Player health or medical information
+- Any information beyond what's needed to run practices and games for your team
+
+## How We Use Your Data
+
 We use this data to:
 
-Generate personalized practice plans for your team
-Track game and practice statistics
-Help you manage substitutions and playing time
-Improve the Huddle app based on how coaches use it
+- Generate personalized practice plans for your team
+- Track game and practice statistics
+- Help you manage substitutions and playing time
+- Improve Huddle based on how coaches actually use it
 
-We do not:
+### What we do NOT do
 
-Sell your data to third parties
-Share team or player data without your permission
-Use player data for marketing or advertising
-Data Storage & Security
-Your data is stored on Supabase, a secure cloud database. We use industry-standard encryption and security practices to protect your information. However, no system is 100% secure—please report any concerns to joe@huddleyouthsports.com.
-Parental Consent & Player Data
-Coaches are responsible for having parental permission to collect and manage player data in Huddle. By using Huddle for your team, you confirm you have the right to manage this information.
+- Sell your data to third parties
+- Share team or player data outside of your team's coaches
+- Use player data for marketing or advertising
 
-Parents or guardians can request:
+## Data Storage & Security
 
-To see their child's data in the app
-Deletion of their child's data from Huddle
-Clarification on how their child's data is used
+Your data is stored on Supabase, a secure cloud database, using industry-standard encryption. No system is ever 100% secure — if you have a concern, email joe@huddleyouthsports.com and we'll respond directly.
 
-Contact: joe@huddleyouthsports.com
-Data Deletion & Your Rights
-You can delete your account and all associated data anytime by contacting joe@huddleyouthsports.com. We will delete your data within 30 days.
+## For Parents
 
-If you're a parent requesting deletion of a player's data, we'll honor that request within 30 days.
-Changes to This Policy
-We may update this policy as the app grows. We'll notify you of major changes via email.
-Contact Us
-Questions about this privacy policy? Contact:
+Coaches use Huddle with roster data from your league's existing systems. If you have questions about your child's information, or would like it removed, you don't need to go through your coach — you can contact us directly.
 
-Email: joe@huddleyouthsports.com
-Website: huddleyouthsports.com
+**You can always:**
 
+- Ask to see what information Huddle has about your child
+- Request that your child's information be deleted
+- Ask us to explain exactly how your child's data is used
 
+**Contact:** joe@huddleyouthsports.com — we respond directly, and honor deletion requests within 30 days.
 
-Last Updated: July 21, 2026
+## Data Deletion & Your Rights
 
+You can delete your account and all associated data at any time by emailing joe@huddleyouthsports.com. We'll complete deletion within 30 days.
+
+## Changes to This Policy
+
+We'll update this policy as Huddle grows, and notify users of any major changes by email.
+
+## Contact Us
+
+**Email:** joe@huddleyouthsports.com
+**Website:** huddleyouthsports.com
