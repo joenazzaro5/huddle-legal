@@ -8,9 +8,11 @@ Most youth soccer coaches are volunteers. Full-time job, no coaching background,
 
 ## What Huddle does
 
-- Builds a practice plan for your exact team — age group, skill level, what you're working on
-- Runs game day — lineups, substitutions, and playing time, all in one place
-- Tracks how each player is developing over the season
+- Builds a practice plan for your exact team — age group, skill level, what you're working on this week
+- Structures every session the way the league's own curriculum does: warmup, open play, two practice blocks, play again, cool-down
+- Gets better as you use it. Rate the drills that worked and the next plan leans toward what your team responded to.
+- Keeps a team's coaches in one conversation, alongside the schedule of practices and games
+- Writes a short practice recap you can send straight to parents
 
 ## About me
 
@@ -18,9 +20,9 @@ I'm Joe Nazzaro. I played college soccer at Vassar, and later coached at both No
 
 ## Privacy & your data
 
-Huddle only uses the team and roster information your league already manages, and only for the purpose of helping your team's coaches plan practices and run games. Full details are in our [Privacy Policy](https://joenazzaro5.github.io/huddle-legal/privacy-policy).
+Huddle stores your name, your email, the teams you coach, the practice plans it builds for you, and the messages you send in team chat. It does not store player names, birthdates, or anything else about individual children. Full details are in the [Privacy Policy](https://joenazzaro5.github.io/huddle-legal/privacy-policy).
 
-If you're a parent with questions about your child's information in Huddle, or want it removed, email [joe@huddleyouthsports.com](mailto:joe@huddleyouthsports.com) and I'll respond directly.
+Huddle accounts are for coaches, who are adults. If you have a question about data in Huddle, or want your account removed, email [joe@huddleyouthsports.com](mailto:joe@huddleyouthsports.com) and I'll respond directly.
 
 ## Get Huddle
 
