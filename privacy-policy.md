@@ -17,6 +17,8 @@ Huddle accounts belong to coaches, who are adults. Coaches do not sign themselve
 
 **Practice and coaching data.** The practice plans Huddle generates for you, the focus you choose for a session, your ratings of individual drills, and your team's schedule of practices and games.
 
+**Feedback you send.** Huddle has a built-in feedback form. If you use it, the message you write is stored along with your account and team, so that a reply can reach you.
+
 **Push notification tokens.** If you allow notifications, Huddle stores a token that identifies your device so it can send practice reminders and chat alerts. It identifies a device, not a person.
 
 ### What Huddle does not collect
@@ -58,7 +60,7 @@ Data is stored on Supabase using industry-standard encryption, with access limit
 
 ## Deleting Your Data
 
-You can have your account and everything attached to it deleted at any time. Email joe@huddleyouthsports.com from the address your account uses, and deletion will be completed within 30 days. That covers your account record, your chat messages, your practice plans and drill ratings, and your notification tokens.
+You can have your account and everything attached to it deleted at any time. Email joe@huddleyouthsports.com from the address your account uses, and deletion will be completed within 30 days. That covers your account record, your chat messages, your practice plans and drill ratings, any feedback you sent, and your notification tokens.
 
 ## Changes to This Policy
 
